@@ -50,7 +50,7 @@ export const cardData2 = [
     id: 1,
     icon: landingpageSupport,
     Heading: "Customer Support",
-    para1: "provide 24/7 AI-Powered assistance without increasing staff costing",
+    para1: "Provide 24/7 AI-Powered assistance without increasing staff costing",
   },
   {
     id: 2,
@@ -61,7 +61,7 @@ export const cardData2 = [
   {
     id: 3,
     icon: list,
-    Heading: "survey and feedback Calls",
+    Heading: "Survey and Feedback Calls",
     para1: "Collect valuable customer insights without human intervention.",
 
   }
@@ -349,11 +349,11 @@ export const menuItems = [
         url: "/blog",
         sortDec: "Managing your Account Safety and security"
       },
-      {
-        text: "Comparisons",
-        url: "/comparisons",
-        sortDec: "Generate a side by side Comparision"
-      },
+      // {
+      //   text: "Comparisons",
+      //   url: "/comparisons",
+      //   sortDec: "Generate a side by side Comparision"
+      // },
       {
         text: "Partners",
         url: "/partners",
